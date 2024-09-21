@@ -74,6 +74,6 @@ dashboard-management-system/
     └── style.css       # Stylesheet for layout and design
     └── script.js       # Script for login, sidebar, and theme toggle
     └── order.js        # Orders data and dynamic table generation
-    └── Preview.png     # Project screenshot
+    └── Images          # All the images used in the code
 ```
 
