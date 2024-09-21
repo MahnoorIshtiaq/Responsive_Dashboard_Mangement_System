@@ -48,7 +48,7 @@ Make sure you have a code editor like VSCode and a web browser installed.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/dashboard-management-system.git
+   git clone https://github.com/MahnoorIshtiaq/Responsive_Dashboard_Mangement_System.git
    ```
 2. Open the project in your code editor.
 3. Open `index.html` in your web browser to start the login process and access the dashboard.
