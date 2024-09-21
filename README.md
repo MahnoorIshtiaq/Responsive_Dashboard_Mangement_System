@@ -1,5 +1,5 @@
 # Dashboard Management System
-
+![Dashboard Screenshot](Dashboard.png)
 Welcome to the Dashboard Management System! This project demonstrates a simple yet functional dashboard interface with user authentication, a dynamic sidebar, theme toggling, and order management.
 
 ## Table of Contents
@@ -12,7 +12,7 @@ Welcome to the Dashboard Management System! This project demonstrates a simple y
 - [Usage](#usage)
 - [File Structure](#file-structure)
 
-![Dashboard Screenshot](Preview.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ## Overview
 
